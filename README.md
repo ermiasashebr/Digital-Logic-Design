@@ -1,2 +1,3 @@
 # Digital-Logic-Design
-Open the .Circ File wiht Logisism
+Simple logical gate circute demonistration
+Open the .Circ File wiht Logisism Software
